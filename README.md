@@ -1,5 +1,9 @@
 # Bem-vindo ao perfil de Lucas Dolabela 🤠
 
+Sou um desenvolvedor apaixonado por tec, estou usando atualmente essas linguagens **Java**, **Spring Boot**, **Banco de Dados**, **HTML** e **CSS**. Sempre em busca de novos desafios no mundo da programação.
+
+---
+
 ## 🖥️ Tecnologias:
 <div align="center">
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -9,7 +13,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 </div>
-
 
 ---
 
@@ -34,3 +37,14 @@
   </a>
 </div>
 
+---
+
+## 📈 Projetos:
+Aqui estão alguns dos meus projetos recentes:
+
+- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git): Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
+
+---
+
+## 🚀 Vamos nos conectar e compartilhar ideias!
+Fique à vontade para entrar em contato comigo ou colaborar em projetos! 
