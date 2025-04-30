@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **S
 ## 📊 Status:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dolabelaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolabelaa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolabelaa&layout=compact&langs_count=7&theme=dark&cache_seconds=1"/>
 </div>
 
 
