@@ -1,6 +1,6 @@
 # Bem-vindo ao perfil de Lucas Dolabela 🤠
 
-Sou um desenvolvedor apaixonado por tec, estou usando atualmente essas linguagens **Java**, **Spring Boot**, **Banco de Dados**, **HTML** e **CSS**. Sempre em busca de novos desafios no mundo da programação.
+Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **Spring Boot**, **bancos de dados**, **HTML** e **CSS**. Estou sempre em busca de novos desafios no mundo da programação.
 
 ---
 
@@ -18,8 +18,8 @@ Sou um desenvolvedor apaixonado por tec, estou usando atualmente essas linguagen
 
 ## 📊 Status:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolabelaa&layout=compact&langs_count=7&theme=dark&cache_seconds=1"/>
+  <img height="180em" src="https://github-readme-stats-git-main-lkhouy.vercel.app/api?username=dolabelaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1"/>
+  <img height="180em" src="https://github-readme-stats-git-main-lkhouy.vercel.app/api/top-langs/?username=dolabelaa&layout=compact&langs_count=7&theme=dark&cache_seconds=1"/>
 </div>
 
 ---
