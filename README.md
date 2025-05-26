@@ -1,16 +1,12 @@
 # Bem-vindo ao perfil de Lucas Dolabela 🤠
 
-Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **Spring Boot**, **bancos de dados**, **HTML** e **CSS**. Estou sempre em busca de novos desafios no mundo da programação.
+Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **C**, **HTML** e **CSS**. Estou sempre em busca de novos desafios no mundo da programação.
 
 ---
 
 ## 🖥️ Tecnologias:
 <div align="center">
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 </div>
 
