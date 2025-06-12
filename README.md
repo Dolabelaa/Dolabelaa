@@ -41,6 +41,7 @@ Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **C
 Aqui estão alguns dos meus projetos recentes:
 
 - [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git): Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
+- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git): Um trabalho da disciplina de Programação Modular, simulação de um banco.
 
 ---
 
