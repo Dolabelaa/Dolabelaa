@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Lucas Dolabela!
 
-🎓 Estudante de **Engenharia de Software** na **PUC Minas** (previsão de conclusão: 2027).  
-💻 Apaixonado por tecnologia, com interesse em **desenvolvimento backend e análise de dados**.  
-🚀 Busco constantemente aprender, explorar novas áreas e evoluir como desenvolvedor.  
+🎓 Estudante de **Engenharia de Software** na **PUC Minas** (previsão de conclusão: 2027).  
+💻 Apaixonado por tecnologia, com interesse em **desenvolvimento backend e análise de dados**.  
+🚀 Busco constantemente aprender, explorar novas áreas e evoluir como desenvolvedor.  
 
 ---
 
@@ -13,32 +13,32 @@ Atualmente, estou em busca de **estágio em tecnologia**, onde possa aplicar e a
 
 ## 🛠️ Tecnologias
 
-**Linguagens e Frameworks:**  
-- C  
-- Java (com foco em Orientação a Objetos)  
-- Spring Boot  
-- PostgreSQL  
-- HTML e CSS  
+**Linguagens e Frameworks:**  
+- C  
+- Java (com foco em Orientação a Objetos)  
+- Spring Boot  
+- PostgreSQL  
+- HTML e CSS  
 
-**Conceitos:**  
-- Lógica de Programação  
-- Programação Orientada a Objetos (POO)  
-- UML, BPMN e Métodos Ágeis  
+**Conceitos:**  
+- Lógica de Programação  
+- Programação Orientada a Objetos (POO)  
+- UML, BPMN e Métodos Ágeis  
 
-**Ferramentas:**  
-- VS Code  
-- IntelliJ IDEA  
+**Ferramentas:**  
+- VS Code  
+- IntelliJ IDEA  
 
 ---
 
 ## 📈 Projetos
 Aqui estão alguns dos meus projetos recentes:
 
-- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git)  
-  Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
+- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git)  
+  Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
 
-- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git)  
-  Simulação de um banco, desenvolvido como trabalho da disciplina de **Programação Modular**.
+- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git)  
+  Simulação de um banco, desenvolvido como trabalho da disciplina de **Programação Modular**.
 
 ---
 
@@ -65,14 +65,16 @@ Aqui estão alguns dos meus projetos recentes:
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dolabelaa&theme=radical)
 
+![WakaTime Coding Activity](https://wakatime.com/share/@Dolabelaa/20c304fb-24c8-459c-94d8-ce505a8b2645.svg)
+
 </div>
 
 ---
 
 ## 📫 Contato
-- 📧 Email: **dolabela.dev@gmail.com**  
-- 💼 LinkedIn: [Lucas Dolabela](https://www.linkedin.com/in/lucas-dolabela/)  
-- 🖥️ GitHub: [Dolabelaa](https://github.com/Dolabelaa)  
+- 📧 Email: **dolabela.dev@gmail.com**  
+- 💼 LinkedIn: [Lucas Dolabela](https://www.linkedin.com/in/lucas-dolabela/)  
+- 🖥️ GitHub: [Dolabelaa](https://github.com/Dolabelaa)  
 
 ---
 ⭐ Sempre aberto a aprender, colaborar e contribuir para projetos que façam a diferença!
