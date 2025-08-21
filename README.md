@@ -1,49 +1,78 @@
-# Bem-vindo ao perfil de Lucas Dolabela 🤠
+# 👋 Olá, eu sou o Lucas Dolabela!
 
-Sou um desenvolvedor apaixonado por tecnologia! Atualmente utilizo **Java**, **C**, **HTML** e **CSS**. Estou sempre em busca de novos desafios no mundo da programação.
-
----
-
-## 🖥️ Tecnologias:
-<div align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-</div>
+🎓 Estudante de **Engenharia de Software** na **PUC Minas** (previsão de conclusão: 2027).  
+💻 Apaixonado por tecnologia, com interesse em **desenvolvimento backend e análise de dados**.  
+🚀 Busco constantemente aprender, explorar novas áreas e evoluir como desenvolvedor.  
 
 ---
 
-
-## 📊 Status:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dolabelaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolabelaa&layout=compact&langs_count=7&theme=dark&cache_seconds=1"/>
-</div>
-
+## 🎯 Objetivo
+Atualmente, estou em busca de **estágio em tecnologia**, onde possa aplicar e aprimorar meus conhecimentos em programação, contribuindo em projetos inovadores e desafiadores.
 
 ---
 
-## 🌎 Redes Sociais:
-<div align="center">
-  <a href="https://www.instagram.com/dolabela.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:dolabela.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-dolabela-14390b2ab/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+## 🛠️ Tecnologias
+
+**Linguagens e Frameworks:**  
+- C  
+- Java (com foco em Orientação a Objetos)  
+- Spring Boot  
+- PostgreSQL  
+- HTML e CSS  
+
+**Conceitos:**  
+- Lógica de Programação  
+- Programação Orientada a Objetos (POO)  
+- UML, BPMN e Métodos Ágeis  
+
+**Ferramentas:**  
+- VS Code  
+- IntelliJ IDEA  
 
 ---
 
-## 📈 Projetos:
+## 📈 Projetos
 Aqui estão alguns dos meus projetos recentes:
 
-- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git): Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
-- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git): Um trabalho da disciplina de Programação Modular, simulação de um banco.
+- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git)  
+  Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
+
+- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git)  
+  Simulação de um banco, desenvolvido como trabalho da disciplina de **Programação Modular**.
 
 ---
 
-## 🚀 Vamos nos conectar e compartilhar ideias!
-Fique à vontade para entrar em contato comigo ou colaborar em projetos!
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 🔥 Estatísticas Gerais
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=radical&count_private=true)
+
+### 📈 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolabelaa&layout=compact&theme=radical)
+
+### 🔥 Streak de Contribuições
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dolabelaa&theme=radical)
+
+</div>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical)
+
+</div>
+
+---
+
+## 📫 Contato
+- 📧 Email: **dolabela.dev@gmail.com**  
+- 💼 LinkedIn: [Lucas Dolabela](https://www.linkedin.com/in/lucas-dolabela/)  
+- 🖥️ GitHub: [Dolabelaa](https://github.com/Dolabelaa)  
+
+---
+⭐ Sempre aberto a aprender, colaborar e contribuir para projetos que façam a diferença!
