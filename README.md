@@ -63,7 +63,7 @@ Aqui estão alguns dos meus projetos recentes:
 
 <div align="center">
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DolabelaaWAKATIME&theme=radical)
 
 </div>
 
