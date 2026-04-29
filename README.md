@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Dolabela! 👋 ⚙️
+# Sou o Lucas Dolabela! 🔧⚙️
 
 **Software Engineer | Backend & Industrial Automation | Node.js | AWS**
 
