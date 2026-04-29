@@ -32,7 +32,7 @@ Atualmente, trabalho na automatização de processos e relatórios críticos par
 
 ### 💼 Experiência em Destaque
 
-* **Desenvolvedor de Software (Estágio) - Engenharia de Automação**
+* **Desenvolvedor de Software (Estágio)**
     * Desenvolvimento e manutenção de sistemas corporativos internos para digitalização e gestão centralizada de contratos.
     * Criação de soluções em Node.js para processamento e automação de relatórios críticos de obras (atendendo demandas de grandes players da mineração).
     * Atuação focada na integridade dos dados e na melhoria contínua de processos operacionais internos.
