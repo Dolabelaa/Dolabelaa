@@ -1,80 +1,56 @@
-# 👋 Olá, eu sou o Lucas Dolabela!
+# Olá, eu sou o Lucas Dolabela! 👋 ⚙️
 
-🎓 Estudante de **Engenharia de Software** na **PUC Minas** (previsão de conclusão: 2027).  
-💻 Apaixonado por tecnologia, com interesse em **desenvolvimento backend e análise de dados**.  
-🚀 Busco constantemente aprender, explorar novas áreas e evoluir como desenvolvedor.  
+**Software Engineer | Backend & Industrial Automation | Node.js | AWS**
 
----
+Sou estudante de **Engenharia de Software na PUC Minas** (5º período) e atuo como Desenvolvedor de Software na área industrial. Meu foco é construir arquiteturas robustas, escaláveis e seguras, conectando regras de negócios complexas a soluções eficientes.
 
-## 🎯 Objetivo
-Atualmente, estou em busca de **estágio em tecnologia**, onde possa aplicar e aprimorar meus conhecimentos em programação, contribuindo em projetos inovadores e desafiadores.
+Atualmente, trabalho na automatização de processos e relatórios críticos para grandes operações do setor de mineração, unindo o mundo do software ao ecossistema industrial.
 
 ---
 
-## 🛠️ Tecnologias
+### 🚀 O que eu faço
+- **Desenvolvimento Backend:** Construção de APIs RESTful estruturadas com Node.js e ecossistema JavaScript.
+- **Design de Software:** Aplicação de boas práticas de engenharia corporativa e Clean Code para criar sistemas de fácil manutenção a longo prazo.
+- **Automação de Processos:** Criação de scripts para automatização de relatórios industriais diários e otimização de fluxos de dados massivos.
+- **Banco de Dados:** Modelagem de dados e otimização de queries estruturadas em SQL para alta performance.
 
-**Linguagens e Frameworks:**  
-- C  
-- Java (com foco em Orientação a Objetos)  
-- Spring Boot  
-- PostgreSQL  
-- HTML e CSS  
+### 🛠️ Minha Stack Técnica
 
-**Conceitos:**  
-- Lógica de Programação  
-- Programação Orientada a Objetos (POO)  
-- UML, BPMN e Métodos Ágeis  
+**Linguagens & Core:**
+`JavaScript` | `Node.js` | `C / C++` (Base sólida em baixo nível e lógica estruturada) 
 
-**Ferramentas:**  
-- VS Code  
-- IntelliJ IDEA  
+**Bancos de Dados:**
+`PostgreSQL` | `SQL Server` | `SQLite`
 
----
+**Arquitetura & Ferramentas:**
+`Clean Code` | `Docker` | `Git / GitHub` | `Desenvolvimento Orientado a Testes`
 
-## 📈 Projetos
-Aqui estão alguns dos meus projetos recentes:
-
-- [**Projeto de Adivinhação Java**](https://github.com/Dolabelaa/jogo-adivinhacao.git)  
-  Um jogo simples onde você tenta adivinhar o número gerado pelo computador.
-
-- [**Projeto Xubank**](https://github.com/Dolabelaa/xubank.git)  
-  Simulação de um banco, desenvolvido como trabalho da disciplina de **Programação Modular**.
+**Estudando Atualmente:**
+`Cloud Computing (Preparação para AWS Certified Cloud Practitioner)` | `Orquestração de Containers (Kubernetes/EKS)` | `Infraestrutura como Código (Terraform)`
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Experiência em Destaque
 
+* **Desenvolvedor de Software (Estágio) - Engenharia de Automação**
+    * Desenvolvimento e manutenção de sistemas corporativos internos para digitalização e gestão centralizada de contratos.
+    * Criação de soluções em Node.js para processamento e automação de relatórios críticos de obras (atendendo demandas de grandes players da mineração).
+    * Atuação focada na integridade dos dados e na melhoria contínua de processos operacionais internos.
+
+* **Projetos Acadêmicos (PUC Minas)**
+    * 🏆 *Projeto Interdisciplinar Premiado (2024/2)*: Reconhecimento como melhor trabalho do semestre pela aplicação prática de padrões de engenharia (MVC, Integração com BD e Lógica Orientada a Objetos).
+
+---
+
+### 📈 Estatísticas do GitHub
 <div align="center">
-
-### 🔥 Estatísticas Gerais
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=radical&count_private=true)
-
-### 📈 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolabelaa&layout=compact&theme=radical)
-
-### 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dolabelaa&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=radical" alt="Estatísticas do Lucas" />
 </div>
 
 ---
 
-## ⏱️ WakaTime Stats
+### 📫 Como me encontrar
+* **LinkedIn:** [linkedin.com/in/lucas-dolabela](https://www.linkedin.com/in/lucas-dolabela-14390b2ab/)
+* **Email:** dolabela.dev@gmail.com
 
-<div align="center">
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dolabelaa&theme=radical)
-
-![WakaTime Coding Activity](https://wakatime.com/share/@Dolabelaa/20c304fb-24c8-459c-94d8-ce505a8b2645.svg)
-
-</div>
-
----
-
-## 📫 Contato
-- 📧 Email: **dolabela.dev@gmail.com**  
-- 💼 LinkedIn: [Lucas Dolabela](https://www.linkedin.com/in/lucas-dolabela/)  
-- 🖥️ GitHub: [Dolabelaa](https://github.com/Dolabelaa)  
-
----
-⭐ Sempre aberto a aprender, colaborar e contribuir para projetos que façam a diferença!
+💡 *"Acredito que o verdadeiro papel da engenharia de software não é apenas escrever código, mas desenhar arquiteturas que resolvam problemas reais com segurança e previsibilidade."*
