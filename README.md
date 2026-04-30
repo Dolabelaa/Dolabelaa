@@ -1,56 +1,57 @@
-# Sou o Lucas Dolabela! 🔧⚙️
+# Hi, I'm Lucas Dolabela! 🔧⚙️
 
 **Software Engineer | Backend & Industrial Automation | Node.js | AWS**
 
-Sou estudante de **Engenharia de Software na PUC Minas** (5º período) e atuo como Desenvolvedor de Software na área industrial. Meu foco é construir arquiteturas robustas, escaláveis e seguras, conectando regras de negócios complexas a soluções eficientes.
+I am a **Software Engineering student at PUC Minas** (5th semester) working as a Software Developer in the industrial sector. My focus is on building robust, scalable, and secure architectures, translating complex business rules into efficient technical solutions.
 
-Atualmente, trabalho na automatização de processos e relatórios críticos para grandes operações do setor de mineração, unindo o mundo do software ao ecossistema industrial.
+Currently, I work on automating critical processes and reports for large-scale mining operations, bridging the gap between software engineering and the industrial ecosystem.
 
 ---
 
-### 🚀 O que eu faço
-- **Desenvolvimento Backend:** Construção de APIs RESTful estruturadas com Node.js e ecossistema JavaScript.
-- **Design de Software:** Aplicação de boas práticas de engenharia corporativa e Clean Code para criar sistemas de fácil manutenção a longo prazo.
-- **Automação de Processos:** Criação de scripts para automatização de relatórios industriais diários e otimização de fluxos de dados massivos.
-- **Banco de Dados:** Modelagem de dados e otimização de queries estruturadas em SQL para alta performance.
+### 🚀 What I Do
+- **Backend Development:** Building structured RESTful APIs using Node.js and the JavaScript ecosystem.
+- **Software Design:** Applying enterprise engineering best practices and Clean Code to build highly maintainable systems.
+- **Process Automation:** Creating scripts to automate daily industrial reports and optimize massive data workflows.
+- **Database Management:** Data modeling and SQL query optimization for high-performance applications.
 
-### 🛠️ Minha Stack Técnica
+### 🛠️ Tech Stack
 
-**Linguagens & Core:**
-`JavaScript` | `Node.js` | `C / C++` (Base sólida em baixo nível e lógica estruturada) 
+**Core Languages:**
+`JavaScript` | `Node.js` | `C / C++` (Solid foundation in low-level concepts and structured logic) 
 
-**Bancos de Dados:**
+**Databases:**
 `PostgreSQL` | `SQL Server` | `SQLite`
 
-**Arquitetura & Ferramentas:**
-`Clean Code` | `Docker` | `Git / GitHub` | `Desenvolvimento Orientado a Testes`
+**Architecture & Tools:**
+`Clean Code` | `Docker` | `Git / GitHub` | `Test-Driven Development (TDD)`
 
-**Estudando Atualmente:**
-`Cloud Computing (Preparação para AWS Certified Cloud Practitioner)` | `Orquestração de Containers (Kubernetes/EKS)` | `Infraestrutura como Código (Terraform)`
-
----
-
-### 💼 Experiência em Destaque
-
-* **Desenvolvedor de Software (Estágio)**
-    * Desenvolvimento e manutenção de sistemas corporativos internos para digitalização e gestão centralizada de contratos.
-    * Criação de soluções em Node.js para processamento e automação de relatórios críticos de obras (atendendo demandas de grandes players da mineração).
-    * Atuação focada na integridade dos dados e na melhoria contínua de processos operacionais internos.
-
-* **Projetos Acadêmicos (PUC Minas)**
-    * 🏆 *Projeto Interdisciplinar Premiado (2024/2)*: Reconhecimento como melhor trabalho do semestre pela aplicação prática de padrões de engenharia (MVC, Integração com BD e Lógica Orientada a Objetos).
+**Currently Studying:**
+`Cloud Computing (AWS Certified Cloud Practitioner Prep)` | `Container Orchestration (Kubernetes/EKS)` | `Infrastructure as Code (Terraform)`
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 💼 Featured Experience
+
+* **Software Developer (Intern) - Industrial Automation**
+    * Developing and maintaining internal enterprise systems for digitization and centralized contract management.
+    * Building Node.js solutions to process and automate critical construction reports for major players in the mining industry.
+    * Focused on data integrity and the continuous improvement of internal operational workflows.
+
+* **Academic Projects (PUC Minas)**
+    * 🏆 *Award-Winning Interdisciplinary Project (2024/2)*: Recognized as the best project of the semester for the practical application of software engineering patterns (MVC, Database Integration, and Object-Oriented Logic).
+
+---
+
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=radical" alt="Estatísticas do Lucas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dolabelaa&show_icons=true&theme=radical" alt="Lucas's GitHub Stats" />
 </div>
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/lucas-dolabela](https://www.linkedin.com/in/lucas-dolabela-14390b2ab/)
 * **Email:** dolabela.dev@gmail.com
 
-💡 *"Acredito que o verdadeiro papel da engenharia de software não é apenas escrever código, mas desenhar arquiteturas que resolvam problemas reais com segurança e previsibilidade."*
+💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+— Martin Fowler
